@@ -14,7 +14,12 @@ class Contact extends Component {
               style={{ height: "250px" }}
             />
             <p style={{ width: "75%", margin: "auto", paddingTop: "1em" }}>
-              Tell me about yourself
+            A highly-motivated computer professional, who graduated with a
+              Computer Science degree from Rose-Hulman Institute of Technology
+              ’19, with the enthusiasm to accept new challenges. The software
+              engineering positions I have been in have given me hands-on work
+              experience working on application design, development, and quality
+              assurance using agile practices, and writing clean code.
             </p>
           </Cell>
           <Cell col={6}>
